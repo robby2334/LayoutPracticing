@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayoutPracticing</string>
+    <string name="text_btn_login_fb">Facebook</string>
+    <string name="text_btn_login_google">Google</string>
+    <string name="text_btn_login">Login</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_hint_username">Username</string>
+    <string name="text_placeholder_name">Robbie Christhover</string>
+    <string name="text_placeholder_profession">Android Developer @Binar Academy</string>
+    <string name="text_placeholder_linkedin">My Linkedin</string>
+    <string name="text_placeholder_github">My Github</string>
+    <string name="text_long_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac purus non ligula eleifend consequat. Nunc pulvinar felis a magna aliquam tempor. Sed lacinia, justo tristique interdum auctor, magna sem pulvinar ex, ac vestibulum leo felis pretium lacus. Maecenas efficitur ut nisi sollicitudin blandit. Quisque eu maximus ipsum. Sed condimentum justo ligula, vel blandit ex luctus quis. Fusce eget odio sit amet ipsum ultrices aliquam in sit amet tortor. Etiam viverra sollicitudin metus non placerat. Integer pulvinar lectus quam, vitae vulputate nibh scelerisque suscipit. Aenean vehicula facilisis fermentum. Mauris ultrices euismod sodales. Quisque ac mollis leo. Quisque ac nisi ex. Sed in faucibus tellus. Etiam sit amet urna eros. Integer consectetur magna at mi feugiat, et mollis lacus consectetur. Sed tristique ac ligula sit amet accumsan. Nulla facilisi. In id justo vel eros pulvinar molestie. Vivamus faucibus turpis dolor. Fusce lacinia sapien non magna eleifend, eu tincidunt metus consequat. Sed ante diam, vulputate nec velit a, condimentum porta dui. Fusce eget massa eu ligula ultrices eleifend. Nam et dictum libero. Nunc ullamcorper elementum lectus cursus fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec commodo augue tellus, et aliquet diam pellentesque at. Mauris cursus magna et erat sollicitudin, quis accumsan felis facilisis. Nullam nibh libero, dictum sed varius non, sollicitudin ut ligula. Duis eu nulla eu leo cursus auctor. Praesent sed lorem iaculis libero pulvinar tincidunt id a nulla. Pellentesque ac metus sit amet odio lacinia pretium molestie eget risus. Praesent ut ipsum sem. Nulla mattis est ut erat pellentesque mattis.</string>
+</resources>
